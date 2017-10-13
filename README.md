@@ -1,3 +1,3 @@
-# DNAWalk
-DNA Walk Implementation in Python
+# pGenomicWalk
+Genomic sequence Walk Implementation in Python
 By Haiqing Li
